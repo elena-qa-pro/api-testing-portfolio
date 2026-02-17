@@ -90,6 +90,17 @@ Elena Kharchenko
 Senior QA Analyst  
 Open to QA opportunities
 
+## Real-World QA Thinking
+
+This project reflects how I approach testing in real production environments:
+
+- I design tests based on risk analysis, not just requirements
+- I prioritize test scenarios that impact users and business logic
+- I analyze API behavior under invalid, boundary, and malicious inputs
+- I focus on defect prevention, not only defect detection
+- I document test artifacts clearly for cross-team collaboration
+
+This repository demonstrates my ability to think critically, test strategically, and communicate findings professionally.
 
 
 
