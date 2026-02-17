@@ -42,9 +42,28 @@ test-cases/
 - SQL
 - Browser DevTools
 - REST APIs
+## Testing Focus Areas
+- API Functional Testing
+- Data Validation
+- Error Handling
+- Security Testing Basics
+- Boundary Value Analysis
+
+---
+
+## Tools Used
+- Postman
+- SQL queries
+- Browser DevTools
+- GitHub Documentation
 
 ---
 
 ## Author
 Elena Kharchenko  
-Senior QA Analyst
+Senior QA Analyst  
+Open to QA opportunities
+
+
+
+
