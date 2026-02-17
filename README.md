@@ -59,6 +59,18 @@ test-cases/
 
 ---
 
+## Project Walkthrough
+
+This portfolio demonstrates a structured API testing approach:
+
+1. Designed test plan for User endpoint
+2. Created functional and negative test cases
+3. Validated database responses using SQL
+4. Documented defect report with severity analysis
+5. Structured documentation for maintainability
+
+This reflects a real QA workflow from planning → testing → validation → reporting.
+
 ## Author
 Elena Kharchenko  
 Senior QA Analyst  
