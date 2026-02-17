@@ -71,6 +71,20 @@ This portfolio demonstrates a structured API testing approach:
 
 This reflects a real QA workflow from planning → testing → validation → reporting.
 
+## Test Scenarios Summary
+
+The following scenarios were designed to validate API reliability, data integrity, and security:
+
+- Valid request returns correct user data
+- Invalid ID returns proper error message
+- Unauthorized request is rejected
+- Boundary value IDs handled correctly
+- SQL injection attempt blocked
+- Response time within acceptable threshold
+- Invalid HTTP method handled correctly
+
+These scenarios demonstrate structured test design, negative testing, and edge case validation.
+
 ## Author
 Elena Kharchenko  
 Senior QA Analyst  
